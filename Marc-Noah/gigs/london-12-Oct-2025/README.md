@@ -32,11 +32,11 @@
 ## Next Actions
 
 ### Immediate Priorities (ASAP)
-- [ ] Song selection for Cover #1 (Song #3)
-- [ ] Song selection for Cover #2 (Song #8)
-- [ ] Song selection for Medley #1 (Song #4)
-- [ ] Song selection for Medley #2 (Song #10)
-- [ ] Finalize Marc Original #1 (Song #6)
+- [ ] Song selection for [Cover #1](./songs/03-cover-1-TBD/) (Song #3)
+- [ ] Song selection for [Cover #2](./songs/08-cover-2-TBD/) (Song #8)
+- [ ] Song selection for [Medley #1](./songs/04-cover-medley-1/) (Song #4)
+- [ ] Song selection for [Medley #2](./songs/10-cover-medley-2/) (Song #10)
+- [ ] Finalize [Marc Original #1](./songs/06-marc-original-1-TBD/) (Song #6)
 
 ### By Oct 5
 - [ ] Complete all chord transcriptions
@@ -45,17 +45,17 @@
 
 ## The Setlist
 
-1. Road Trip V1
-2. Fast Car V1
-3. Cover #1 - **TBD**
-4. Cover Medley #1 - **TBD**
-5. More Than Words
-6. Marc Original #1 - **TBD**
-7. Fast Car V2
-8. Cover #2 - **TBD**
-9. Road Trip V2
-10. Cover Medley #2 - **TBD**
-11. Happy Birthday
+1. [Road Trip V1](./songs/01-road-trip-v1/)
+2. [Fast Car V1](./songs/02-fast-car-v1/)
+3. [Cover #1](./songs/03-cover-1-TBD/) - **TBD**
+4. [Cover Medley #1](./songs/04-cover-medley-1/) - **TBD**
+5. [More Than Words](./songs/05-more-than-words/)
+6. [Marc Original #1](./songs/06-marc-original-1-TBD/) - **TBD**
+7. [Fast Car V2](./songs/07-fast-car-v2/)
+8. [Cover #2](./songs/08-cover-2-TBD/) - **TBD**
+9. [Road Trip V2](./songs/09-road-trip-v2/)
+10. [Cover Medley #2](./songs/10-cover-medley-2/) - **TBD**
+11. [Happy Birthday](./songs/11-happy-birthday/)
 
 ## Team
 - **Marc Noah** - Lead Musician, Vocals, Guitar

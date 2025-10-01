@@ -6,52 +6,52 @@
 ## URGENT (Oct 1-2)
 
 ### Song Selection
-- [ ] Select Cover #1 (Song #3) - **@Team Decision Needed**
-- [ ] Select Cover #2 (Song #8) - **@Team Decision Needed**
-- [ ] Select songs for Cover Medley #1 (Song #4) - **@Team Decision Needed**
-- [ ] Select songs for Cover Medley #2 (Song #10) - **@Team Decision Needed**
-- [ ] Confirm Marc Original #1 (Song #6) - **@Marc**
+- [ ] Select [Cover #1](../songs/03-cover-1-TBD/) (Song #3) - **@Team Decision Needed**
+- [ ] Select [Cover #2](../songs/08-cover-2-TBD/) (Song #8) - **@Team Decision Needed**
+- [ ] Select songs for [Cover Medley #1](../songs/04-cover-medley-1/) (Song #4) - **@Team Decision Needed**
+- [ ] Select songs for [Cover Medley #2](../songs/10-cover-medley-2/) (Song #10) - **@Team Decision Needed**
+- [ ] Confirm [Marc Original #1](../songs/06-marc-original-1-TBD/) (Song #6) - **@Marc**
 
 ## Critical (Oct 2-5)
 
 ### Musical Arrangements
-- [ ] Transcribe chords for Road Trip V1 - **@Unassigned**
-- [ ] Transcribe chords for Road Trip V2 - **@Unassigned**
-- [ ] Transcribe chords for Fast Car V1 - **@Unassigned**
-- [ ] Transcribe chords for Fast Car V2 - **@Unassigned**
-- [ ] Transcribe chords for More Than Words - **@Unassigned**
-- [ ] Transcribe chords for Happy Birthday - **@Unassigned**
-- [ ] Transcribe chords for selected Cover #1 - **@Unassigned**
-- [ ] Transcribe chords for selected Cover #2 - **@Unassigned**
-- [ ] Transcribe chords for Medley #1 songs - **@Unassigned**
-- [ ] Transcribe chords for Medley #2 songs - **@Unassigned**
+- [ ] Transcribe chords for [Road Trip V1](../songs/01-road-trip-v1/) - **@Unassigned**
+- [ ] Transcribe chords for [Road Trip V2](../songs/09-road-trip-v2/) - **@Unassigned**
+- [ ] Transcribe chords for [Fast Car V1](../songs/02-fast-car-v1/) - **@Unassigned**
+- [ ] Transcribe chords for [Fast Car V2](../songs/07-fast-car-v2/) - **@Unassigned**
+- [ ] Transcribe chords for [More Than Words](../songs/05-more-than-words/) - **@Unassigned**
+- [ ] Transcribe chords for [Happy Birthday](../songs/11-happy-birthday/) - **@Unassigned**
+- [ ] Transcribe chords for selected [Cover #1](../songs/03-cover-1-TBD/) - **@Unassigned**
+- [ ] Transcribe chords for selected [Cover #2](../songs/08-cover-2-TBD/) - **@Unassigned**
+- [ ] Transcribe chords for [Medley #1](../songs/04-cover-medley-1/) songs - **@Unassigned**
+- [ ] Transcribe chords for [Medley #2](../songs/10-cover-medley-2/) songs - **@Unassigned**
 
 ### Arrangement Documentation
-- [ ] Document Road Trip V1 arrangement - **@Team**
-- [ ] Document Road Trip V2 arrangement - **@Team**
-- [ ] Document Fast Car V1 arrangement - **@Team**
-- [ ] Document Fast Car V2 arrangement - **@Team**
-- [ ] Document More Than Words arrangement - **@Team**
-- [ ] Document Cover #1 arrangement - **@Team**
-- [ ] Document Medley #1 arrangement - **@Team**
-- [ ] Document Marc Original #1 arrangement - **@Team**
-- [ ] Document Cover #2 arrangement - **@Team**
-- [ ] Document Medley #2 arrangement - **@Team**
-- [ ] Document Happy Birthday arrangement - **@Team**
+- [ ] Document [Road Trip V1](../songs/01-road-trip-v1/) arrangement - **@Team**
+- [ ] Document [Road Trip V2](../songs/09-road-trip-v2/) arrangement - **@Team**
+- [ ] Document [Fast Car V1](../songs/02-fast-car-v1/) arrangement - **@Team**
+- [ ] Document [Fast Car V2](../songs/07-fast-car-v2/) arrangement - **@Team**
+- [ ] Document [More Than Words](../songs/05-more-than-words/) arrangement - **@Team**
+- [ ] Document [Cover #1](../songs/03-cover-1-TBD/) arrangement - **@Team**
+- [ ] Document [Medley #1](../songs/04-cover-medley-1/) arrangement - **@Team**
+- [ ] Document [Marc Original #1](../songs/06-marc-original-1-TBD/) arrangement - **@Team**
+- [ ] Document [Cover #2](../songs/08-cover-2-TBD/) arrangement - **@Team**
+- [ ] Document [Medley #2](../songs/10-cover-medley-2/) arrangement - **@Team**
+- [ ] Document [Happy Birthday](../songs/11-happy-birthday/) arrangement - **@Team**
 
 ### Transitions
-- [ ] Write transition: Intro → Road Trip V1 - **@Team**
-- [ ] Write transition: Road Trip V1 → Fast Car V1 - **@Team**
-- [ ] Write transition: Fast Car V1 → Cover #1 - **@Team**
-- [ ] Write transition: Cover #1 → Medley #1 - **@Team**
-- [ ] Write transition: Medley #1 → More Than Words - **@Team**
-- [ ] Write transition: More Than Words → Marc Original #1 - **@Team**
-- [ ] Write transition: Marc Original #1 → Fast Car V2 - **@Team**
-- [ ] Write transition: Fast Car V2 → Cover #2 - **@Team**
-- [ ] Write transition: Cover #2 → Road Trip V2 - **@Team**
-- [ ] Write transition: Road Trip V2 → Medley #2 - **@Team**
-- [ ] Write transition: Medley #2 → Happy Birthday - **@Team**
-- [ ] Write transition: Happy Birthday → Outro - **@Team**
+- [ ] Write transition: Intro → [Road Trip V1](../songs/01-road-trip-v1/) - **@Team**
+- [ ] Write transition: [Road Trip V1](../songs/01-road-trip-v1/) → [Fast Car V1](../songs/02-fast-car-v1/) - **@Team**
+- [ ] Write transition: [Fast Car V1](../songs/02-fast-car-v1/) → [Cover #1](../songs/03-cover-1-TBD/) - **@Team**
+- [ ] Write transition: [Cover #1](../songs/03-cover-1-TBD/) → [Medley #1](../songs/04-cover-medley-1/) - **@Team**
+- [ ] Write transition: [Medley #1](../songs/04-cover-medley-1/) → [More Than Words](../songs/05-more-than-words/) - **@Team**
+- [ ] Write transition: [More Than Words](../songs/05-more-than-words/) → [Marc Original #1](../songs/06-marc-original-1-TBD/) - **@Team**
+- [ ] Write transition: [Marc Original #1](../songs/06-marc-original-1-TBD/) → [Fast Car V2](../songs/07-fast-car-v2/) - **@Team**
+- [ ] Write transition: [Fast Car V2](../songs/07-fast-car-v2/) → [Cover #2](../songs/08-cover-2-TBD/) - **@Team**
+- [ ] Write transition: [Cover #2](../songs/08-cover-2-TBD/) → [Road Trip V2](../songs/09-road-trip-v2/) - **@Team**
+- [ ] Write transition: [Road Trip V2](../songs/09-road-trip-v2/) → [Medley #2](../songs/10-cover-medley-2/) - **@Team**
+- [ ] Write transition: [Medley #2](../songs/10-cover-medley-2/) → [Happy Birthday](../songs/11-happy-birthday/) - **@Team**
+- [ ] Write transition: [Happy Birthday](../songs/11-happy-birthday/) → Outro - **@Team**
 
 ## Documentation (Oct 3-9)
 

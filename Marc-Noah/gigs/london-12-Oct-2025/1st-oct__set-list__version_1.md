@@ -11,17 +11,17 @@
 
 | # | Song Title | Duration | Key | Special Notes |
 |---|------------|----------|-----|---------------|
-| 1 | Road Trip - Version 1 | 4-5 min | TBD | Opening statement - Marc's original |
-| 2 | Fast Car - Version 1 | 5 min | TBD | Crowd favorite |
-| 3 | Cover #1 | 4-5 min | TBD | Energy builder |
-| 4 | Cover Medley #1 | 5-6 min | Various | Audience engagement |
-| 5 | More Than Words | 4-5 min | G | Dinis on guitar |
-| 6 | Marc's Original #1 | 4-5 min | TBD | New material |
-| 7 | Fast Car - Version 2 | 5 min | TBD | Alternative arrangement |
-| 8 | Cover #2 | 4-5 min | TBD | Momentum maintainer |
-| 9 | Road Trip - Version 2 | 4-5 min | TBD | Experimental iteration |
-| 10 | Cover Medley #2 | 5-6 min | Various | Building to finale |
-| 11 | Happy Birthday | 2-3 min | TBD | Unexpected closer |
+| 1 | [Road Trip - Version 1](./songs/01-road-trip-v1/) | 4-5 min | TBD | Opening statement - Marc's original |
+| 2 | [Fast Car - Version 1](./songs/02-fast-car-v1/) | 5 min | TBD | Crowd favorite |
+| 3 | [Cover #1](./songs/03-cover-1-TBD/) | 4-5 min | TBD | Energy builder |
+| 4 | [Cover Medley #1](./songs/04-cover-medley-1/) | 5-6 min | Various | Audience engagement |
+| 5 | [More Than Words](./songs/05-more-than-words/) | 4-5 min | G | Dinis on guitar |
+| 6 | [Marc's Original #1](./songs/06-marc-original-1-TBD/) | 4-5 min | TBD | New material |
+| 7 | [Fast Car - Version 2](./songs/07-fast-car-v2/) | 5 min | TBD | Alternative arrangement |
+| 8 | [Cover #2](./songs/08-cover-2-TBD/) | 4-5 min | TBD | Momentum maintainer |
+| 9 | [Road Trip - Version 2](./songs/09-road-trip-v2/) | 4-5 min | TBD | Experimental iteration |
+| 10 | [Cover Medley #2](./songs/10-cover-medley-2/) | 5-6 min | Various | Building to finale |
+| 11 | [Happy Birthday](./songs/11-happy-birthday/) | 2-3 min | TBD | Unexpected closer |
 
 **Total Music Time:** ~50-55 minutes  
 **With Transitions:** ~60-65 minutes
@@ -45,7 +45,7 @@
 
 ## Detailed Song Breakdown
 
-### 1. Road Trip (Marc's Original) - Version 1
+### 1. [Road Trip (Marc's Original) - Version 1](./songs/01-road-trip-v1/)
 **Duration:** ~4-5 minutes  
 **Arrangement:** TBD (likely acoustic/intimate)
 - Marc: 
@@ -55,7 +55,7 @@
 - **Chords:** TBD
 - **Notes:** Opening with Marc's original to establish Music Lab identity
 
-### 2. Fast Car (Tracy Chapman) - Version 1
+### 2. [Fast Car (Tracy Chapman) - Version 1](./songs/02-fast-car-v1/)
 **Duration:** ~5 minutes  
 **Arrangement:** TBD (traditional approach)
 - Marc: 
@@ -65,8 +65,8 @@
 - **Chords:** TBD
 - **Notes:** Familiar arrangement to build trust with audience
 
-### 3. Cover #1
-**Duration:** ~4-5 minutes  
+### 3. [Cover #1](./songs/03-cover-1-TBD/)
+**Duration:** ~4-5 minutes
 **Song:** TBD
 - Marc: 
 - Emily: 
@@ -75,8 +75,8 @@
 - **Chords:** TBD
 - **Notes:** Energy lifter after two familiar songs
 
-### 4. Cover Medley #1
-**Duration:** ~5-6 minutes  
+### 4. [Cover Medley #1](./songs/04-cover-medley-1/)
+**Duration:** ~5-6 minutes
 **Songs included:** TBD (2-3 songs, ~2 minutes each)
 - Song 1: 
 - Song 2: 
@@ -84,8 +84,8 @@
 - **Arrangement:** Seamless transitions
 - **Notes:** Audience participation opportunity
 
-### 5. More Than Words (Extreme)
-**Duration:** ~4-5 minutes  
+### 5. [More Than Words (Extreme)](./songs/05-more-than-words/)
+**Duration:** ~4-5 minutes
 **Arrangement:** Special arrangement with Dinis on guitar
 - Marc: Lead vocals
 - Emily: Harmonies? Keys?
@@ -94,8 +94,8 @@
 - **Chords:** TBD
 - **Notes:** Mid-set highlight - nostalgic 90s connection, showcasing Dinis
 
-### 6. Marc's Original #1
-**Duration:** ~4-5 minutes  
+### 6. [Marc's Original #1](./songs/06-marc-original-1-TBD/)
+**Duration:** ~4-5 minutes
 **Song:** TBD (possibly the Portuguese song from project plan?)
 - Marc: 
 - Emily: 
@@ -104,8 +104,8 @@
 - **Chords:** TBD
 - **Notes:** Fresh material in the second half
 
-### 7. Fast Car (Tracy Chapman) - Version 2
-**Duration:** ~5 minutes  
+### 7. [Fast Car (Tracy Chapman) - Version 2](./songs/07-fast-car-v2/)
+**Duration:** ~5 minutes
 **Arrangement:** Alternative take (different style/instrumentation?)
 - Marc: 
 - Emily: 
@@ -114,8 +114,8 @@
 - **Chords:** TBD
 - **Notes:** Experimental iteration, contrasting with Version 1
 
-### 8. Cover #2
-**Duration:** ~4-5 minutes  
+### 8. [Cover #2](./songs/08-cover-2-TBD/)
+**Duration:** ~4-5 minutes
 **Song:** TBD
 - Marc: 
 - Emily: 
@@ -124,8 +124,8 @@
 - **Chords:** TBD
 - **Notes:** Maintaining energy toward finale
 
-### 9. Road Trip (Marc's Original) - Version 2
-**Duration:** ~4-5 minutes  
+### 9. [Road Trip (Marc's Original) - Version 2](./songs/09-road-trip-v2/)
+**Duration:** ~4-5 minutes
 **Arrangement:** Different approach (loop pedal? Different tempo? Fuller arrangement?)
 - Marc: 
 - Emily: 
@@ -134,8 +134,8 @@
 - **Chords:** TBD
 - **Notes:** Experimental version - showcasing the Lab's iterative approach late in the set
 
-### 10. Cover Medley #2
-**Duration:** ~5-6 minutes  
+### 10. [Cover Medley #2](./songs/10-cover-medley-2/)
+**Duration:** ~5-6 minutes
 **Songs included:** TBD (2-3 songs, ~2 minutes each)
 - Song 1: 
 - Song 2: 
@@ -143,8 +143,8 @@
 - **Arrangement:** Different era/style from Medley #1
 - **Notes:** Building energy for finale
 
-### 11. Happy Birthday
-**Duration:** ~2-3 minutes  
+### 11. [Happy Birthday](./songs/11-happy-birthday/)
+**Duration:** ~2-3 minutes
 **Arrangement:** Unexpected style (jazz? reggae? punk?)
 - Marc: 
 - Emily: 
@@ -187,9 +187,9 @@
 ## Next Steps
 
 1. **Song Selection Session** (Marc, Emily, Dinis)
-   - Finalize Marc's Original #1
-   - Select Cover #1 and Cover #2
-   - Choose songs for both medleys
+   - Finalize [Marc's Original #1](./songs/06-marc-original-1-TBD/)
+   - Select [Cover #1](./songs/03-cover-1-TBD/) and [Cover #2](./songs/08-cover-2-TBD/)
+   - Choose songs for [Medley #1](./songs/04-cover-medley-1/) and [Medley #2](./songs/10-cover-medley-2/)
    
 2. **Remote Arrangement Session** (Oct 7/8)
    - Define instrumentation for each song
@@ -198,6 +198,6 @@
    - Plan special moments (looper, harmonica, etc.)
 
 3. **Version Development**
-   - Clearly differentiate the two Road Trip versions
-   - Clearly differentiate the two Fast Car versions
+   - Clearly differentiate the two [Road Trip](./songs/01-road-trip-v1/) [versions](./songs/09-road-trip-v2/)
+   - Clearly differentiate the two [Fast Car](./songs/02-fast-car-v1/) [versions](./songs/07-fast-car-v2/)
    - Ensure experimental value in each iteration
