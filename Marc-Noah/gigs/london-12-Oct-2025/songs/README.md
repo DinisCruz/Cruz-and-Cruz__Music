@@ -6,60 +6,19 @@ This directory contains detailed materials for all 11 songs in the Marc Noah and
 
 ## The Setlist
 
-### 1. [Road Trip V1](./01-road-trip-v1/)
-- **Type:** Marc Noah Original
-- **Status:** 🟡 In Progress
-- **Notes:** Opening song - first version
-
-### 2. [Fast Car V1](./02-fast-car-v1/)
-- **Type:** Tracy Chapman Cover
-- **Status:** 🟡 In Progress
-- **Notes:** First version - traditional approach
-
-### 3. [Cover #1](./03-cover-1-TBD/)
-- **Type:** Cover - TBD
-- **Status:** ⚠️ **NEEDS SELECTION**
-- **Notes:** Energy builder, early in set
-
-### 4. [Cover Medley #1](./04-cover-medley-1/)
-- **Type:** Medley - TBD
-- **Status:** ⚠️ **NEEDS SELECTION**
-- **Notes:** 2-3 songs, ~5-6 minutes
-
-### 5. [More Than Words](./05-more-than-words/)
-- **Type:** Extreme Cover
-- **Status:** 🔴 Not Started
-- **Notes:** Midpoint of set, Dinis on guitar
-
-### 6. [Marc Original #1](./06-marc-original-1-TBD/)
-- **Type:** Marc Noah Original - TBD
-- **Status:** ⚠️ **NEEDS SELECTION**
-- **Notes:** Second original in the set
-
-### 7. [Fast Car V2](./07-fast-car-v2/)
-- **Type:** Tracy Chapman Cover
-- **Status:** 🟡 In Progress
-- **Notes:** Second version - experimental approach
-
-### 8. [Blackbird](./08-cover-2-TBD/)
-- **Type:** The Beatles Cover
-- **Status:** 🟡 In Progress
-- **Notes:** Acoustic guitar showcase, intimate moment
-
-### 9. [Road Trip V2](./09-road-trip-v2/)
-- **Type:** Marc Noah Original
-- **Status:** 🟡 In Progress
-- **Notes:** Second version - near finale
-
-### 10. [Cover Medley #2](./10-cover-medley-2/)
-- **Type:** Medley - TBD
-- **Status:** ⚠️ **NEEDS SELECTION**
-- **Notes:** Building energy to finale
-
-### 11. [Happy Birthday](./11-happy-birthday/)
-- **Type:** Traditional
-- **Status:** 🔴 Not Started
-- **Notes:** Finale - custom arrangement
+| # | Song | Type | Status | Notes |
+|---|------|------|--------|-------|
+| 1 | [Road Trip V1](./01-road-trip-v1/) | Marc Noah Original | 🟡 In Progress | Opening song - first version |
+| 2 | [Fast Car V1](./02-fast-car-v1/) | Tracy Chapman Cover | 🟡 In Progress | First version - traditional approach |
+| 3 | [Cover #1](./03-cover-1-TBD/) | Cover - TBD | ⚠️ **NEEDS SELECTION** | Energy builder, early in set |
+| 4 | [Cover Medley #1](./04-cover-medley-1/) | Medley - TBD | ⚠️ **NEEDS SELECTION** | 2-3 songs, ~5-6 minutes |
+| 5 | [More Than Words](./05-more-than-words/) | Extreme Cover | 🔴 Not Started | Midpoint of set, Dinis on guitar |
+| 6 | [Marc Original #1](./06-marc-original-1-TBD/) | Marc Noah Original - TBD | ⚠️ **NEEDS SELECTION** | Second original in the set |
+| 7 | [Fast Car V2](./07-fast-car-v2/) | Tracy Chapman Cover | 🟡 In Progress | Second version - experimental approach |
+| 8 | [Blackbird](./08-cover-2-TBD/) | The Beatles Cover | 🟡 In Progress | Acoustic guitar showcase, intimate moment |
+| 9 | [Road Trip V2](./09-road-trip-v2/) | Marc Noah Original | 🟡 In Progress | Second version - near finale |
+| 10 | [Cover Medley #2](./10-cover-medley-2/) | Medley - TBD | ⚠️ **NEEDS SELECTION** | Building energy to finale |
+| 11 | [Happy Birthday](./11-happy-birthday/) | Traditional | 🔴 Not Started | Finale - custom arrangement |
 
 ---
 
