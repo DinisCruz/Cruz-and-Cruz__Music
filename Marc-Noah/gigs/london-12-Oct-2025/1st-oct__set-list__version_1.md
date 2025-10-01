@@ -14,12 +14,12 @@
 | 1 | Road Trip - Version 1 | 4-5 min | TBD | Opening statement - Marc's original |
 | 2 | Fast Car - Version 1 | 5 min | TBD | Crowd favorite |
 | 3 | Cover #1 | 4-5 min | TBD | Energy builder |
-| 4 | Road Trip - Version 2 | 4-5 min | TBD | Experimental iteration |
-| 5 | Cover Medley #1 | 5-6 min | Various | Audience engagement |
-| 6 | More Than Words | 4-5 min | G | Dinis on guitar |
-| 7 | Marc's Original #1 | 4-5 min | TBD | New material |
-| 8 | Fast Car - Version 2 | 5 min | TBD | Alternative arrangement |
-| 9 | Cover #2 | 4-5 min | TBD | Momentum maintainer |
+| 4 | Cover Medley #1 | 5-6 min | Various | Audience engagement |
+| 5 | More Than Words | 4-5 min | G | Dinis on guitar |
+| 6 | Marc's Original #1 | 4-5 min | TBD | New material |
+| 7 | Fast Car - Version 2 | 5 min | TBD | Alternative arrangement |
+| 8 | Cover #2 | 4-5 min | TBD | Momentum maintainer |
+| 9 | Road Trip - Version 2 | 4-5 min | TBD | Experimental iteration |
 | 10 | Cover Medley #2 | 5-6 min | Various | Building to finale |
 | 11 | Happy Birthday | 2-3 min | TBD | Unexpected closer |
 
@@ -75,17 +75,7 @@
 - **Chords:** TBD
 - **Notes:** Energy lifter after two familiar songs
 
-### 4. Road Trip (Marc's Original) - Version 2
-**Duration:** ~4-5 minutes  
-**Arrangement:** Different approach (loop pedal? Different tempo? Fuller arrangement?)
-- Marc: 
-- Emily: 
-- Dinis: 
-- **Key:** TBD
-- **Chords:** TBD
-- **Notes:** Experimental version - showcasing the Lab's iterative approach
-
-### 5. Cover Medley #1
+### 4. Cover Medley #1
 **Duration:** ~5-6 minutes  
 **Songs included:** TBD (2-3 songs, ~2 minutes each)
 - Song 1: 
@@ -94,7 +84,7 @@
 - **Arrangement:** Seamless transitions
 - **Notes:** Audience participation opportunity
 
-### 6. More Than Words (Extreme)
+### 5. More Than Words (Extreme)
 **Duration:** ~4-5 minutes  
 **Arrangement:** Special arrangement with Dinis on guitar
 - Marc: Lead vocals
@@ -104,7 +94,7 @@
 - **Chords:** TBD
 - **Notes:** Mid-set highlight - nostalgic 90s connection, showcasing Dinis
 
-### 7. Marc's Original #1
+### 6. Marc's Original #1
 **Duration:** ~4-5 minutes  
 **Song:** TBD (possibly the Portuguese song from project plan?)
 - Marc: 
@@ -114,7 +104,7 @@
 - **Chords:** TBD
 - **Notes:** Fresh material in the second half
 
-### 8. Fast Car (Tracy Chapman) - Version 2
+### 7. Fast Car (Tracy Chapman) - Version 2
 **Duration:** ~5 minutes  
 **Arrangement:** Alternative take (different style/instrumentation?)
 - Marc: 
@@ -124,7 +114,7 @@
 - **Chords:** TBD
 - **Notes:** Experimental iteration, contrasting with Version 1
 
-### 9. Cover #2
+### 8. Cover #2
 **Duration:** ~4-5 minutes  
 **Song:** TBD
 - Marc: 
@@ -133,6 +123,16 @@
 - **Key:** TBD
 - **Chords:** TBD
 - **Notes:** Maintaining energy toward finale
+
+### 9. Road Trip (Marc's Original) - Version 2
+**Duration:** ~4-5 minutes  
+**Arrangement:** Different approach (loop pedal? Different tempo? Fuller arrangement?)
+- Marc: 
+- Emily: 
+- Dinis: 
+- **Key:** TBD
+- **Chords:** TBD
+- **Notes:** Experimental version - showcasing the Lab's iterative approach late in the set
 
 ### 10. Cover Medley #2
 **Duration:** ~5-6 minutes  
