@@ -20,7 +20,7 @@
 | 5 | [More Than Words](./songs/05-more-than-words/) | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | Extreme cover |
 | 6 | [Marc Original #1](./songs/06-marc-original-1-TBD/) | ⚠️ | - | - | - | - | - | - | **NEEDS SELECTION** |
 | 7 | [Fast Car V2](./songs/07-fast-car-v2/) | 🟡 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | Tracy Chapman cover - second version |
-| 8 | [Cover #2](./songs/08-cover-2-TBD/) | ⚠️ | - | - | - | - | - | - | **NEEDS SELECTION** |
+| 8 | [Blackbird](./songs/08-cover-2-TBD/) | 🟡 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | Beatles cover - acoustic showcase |
 | 9 | [Road Trip V2](./songs/09-road-trip-v2/) | 🟡 | 🟡 | 🟡 | 🔴 | 🔴 | 🔴 | 🔴 | Marc Noah original - second version |
 | 10 | [Cover Medley #2](./songs/10-cover-medley-2/) | ⚠️ | - | - | - | - | - | - | **NEEDS SONG SELECTION** |
 | 11 | [Happy Birthday](./songs/11-happy-birthday/) | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | Traditional - custom arrangement |
@@ -29,7 +29,7 @@
 
 ### URGENT (By Oct 2)
 - [ ] Select [Cover #1](./songs/03-cover-1-TBD/) (Song #3)
-- [ ] Select [Cover #2](./songs/08-cover-2-TBD/) (Song #8)
+- [x] Select [Cover #2](./songs/08-cover-2-TBD/) (Song #8) - **✅ Blackbird selected**
 - [ ] Select [Marc Original #1](./songs/06-marc-original-1-TBD/) (Song #6)
 - [ ] Select songs for [Cover Medley #1](./songs/04-cover-medley-1/) (Song #4)
 - [ ] Select songs for [Cover Medley #2](./songs/10-cover-medley-2/) (Song #10)

@@ -6,6 +6,7 @@
 
 ## Quick Links
 - [Song Status Tracker](./SONG_STATUS.md)
+- [Potential Songs List](./potential-songs-list.md)
 - [How to Help](./project/HOW_TO_HELP.md)
 - [Design Brief](./1st-oct__design-brief.md)
 - [Production Brief](./1st-oct__concert-production-brief.md)

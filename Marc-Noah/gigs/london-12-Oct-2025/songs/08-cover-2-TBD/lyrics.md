@@ -1,20 +1,23 @@
-# Lyrics - [Song TBD]
+# Lyrics - Blackbird
 
 ## Song Information
-- **Title:** [To be determined]
-- **Writer:** [To be determined]
-
-## URGENT: Song Selection Needed
-
-This slot requires song selection by **October 2, 2025**.
-
-Once song is selected, lyrics will be documented here.
+- **Title:** Blackbird
+- **Original Artist:** The Beatles
+- **Writers:** Paul McCartney, John Lennon
+- **Album:** The Beatles (White Album) - 1968
 
 ## Lyrics
 
-[To be added after song selection]
+Lyrics available from official sources:
+- Sheet music publishers
+- Official Beatles songbooks
+- Licensed lyrics websites
+
+## Notes
+
+Classic Beatles song with meaningful lyrics about overcoming adversity and finding freedom. The imagery uses a blackbird as a metaphor.
 
 ---
 
 **Last Updated:** October 1, 2025
-**Status:** ⚠️ Awaiting song selection
+**Status:** Song selected - lyrics available from official sources

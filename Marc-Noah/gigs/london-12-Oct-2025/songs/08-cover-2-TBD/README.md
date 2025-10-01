@@ -1,7 +1,7 @@
-# Cover #2 - Song #8
+# Blackbird - Song #8
 
 ## Status
-- [ ] **Song selected/confirmed - URGENT**
+- [x] **Song selected/confirmed**
 - [ ] Lyrics documented
 - [ ] Chords finalized
 - [ ] Arrangement decided
@@ -10,37 +10,20 @@
 - [ ] Transitions planned
 
 ## Quick Info
-- **Key:** [TBD based on song selection]
-- **Tempo:** [TBD based on song selection]
-- **Duration:** [TBD based on song selection]
-- **Version Notes:** Cover song slot
+- **Original Artist:** The Beatles
+- **Writers:** Paul McCartney, John Lennon
+- **Album:** The Beatles (White Album) - 1968
+- **Key:** G major (original)
+- **Tempo:** ~90 BPM
+- **Duration:** ~2-3 minutes
+- **Version Notes:** Acoustic guitar showcase
 
-## **URGENT: Song Selection Needed**
+## Song Information
 
-This slot needs a song selection by **October 2**.
-
-### Selection Criteria
-- Fits late in the set (song #8 of 11)
-- Provides energy/mood shift after Fast Car V2
-- Complements overall concert flow
-- Different style from other covers in set
-- Showcases the trio's versatility
-- [Other criteria]
-
-### Song Options Under Consideration
-1. [Option 1]
-2. [Option 2]
-3. [Option 3]
-
-### Decision Process
-- [ ] Team discussion
-- [ ] Test arrangements
-- [ ] Final decision
-- [ ] Communicate to all
+Classic Beatles acoustic song featuring intricate fingerpicking guitar work. Known for its beautiful melody and meaningful lyrics about overcoming adversity.
 
 ## Files in This Directory
 
-Once song is selected:
 - [Lyrics](./lyrics.md) - Song lyrics
 - [Chords](./chords.md) - Chord progressions and tabs
 - [Arrangement](./arrangement.md) - Who plays what, specific arrangement notes
@@ -52,30 +35,57 @@ Once song is selected:
 ## Arrangement
 
 ### Instruments
-To be determined based on song selection.
+- **Marc Noah:** Lead vocals, acoustic guitar (fingerpicking)
+- **Emily:** [To be defined - harmonies? subtle keys?]
+- **Dinis:** [To be defined - cajon? light percussion? or rest?]
+
+### Arrangement Notes
+Blackbird is traditionally a solo acoustic guitar piece. The trio arrangement should:
+- Preserve the intimate acoustic feel
+- Showcase Marc's fingerpicking ability
+- Add subtle accompaniment without overpowering the guitar work
+- Maintain the song's delicate nature
 
 ## Transitions
 
 ### Entry (From Fast Car V2)
-[To be documented once song is selected]
+[To be documented - transition from Fast Car V2 to this intimate acoustic piece]
 
 ### Exit (To Road Trip V2)
-[To be documented once song is selected]
+[To be documented - building back from intimate moment to Road Trip V2]
 
 ## Reference Materials
 
-[To be added once song is selected]
+### Original Recording
+- The Beatles - Blackbird (1968)
+- [YouTube link to be added]
+- [Spotify link to be added]
+
+### Notable Covers
+- [Links to reference performances]
+
+### Guitar Tabs
+- [Link to reliable tab source]
 
 ## Notes & Rationale
+
+### Why This Song?
+- Provides intimate, acoustic moment late in the set
+- Showcases fingerpicking guitar skills
+- Well-known Beatles classic
+- Beautiful, meaningful lyrics
+- Creates dynamic contrast with surrounding songs
 
 ### Position in Set
 Song #8 - Late in the concert, before the final three songs
 
 ### Role in Concert
-This cover provides variety and should work well in the context of:
-- Following Fast Car V2
-- Leading into Road Trip V2
-- Contributing to the overall arc of the concert
+Blackbird provides:
+- An intimate, stripped-down moment after Fast Car V2
+- A breather before the final push to the end
+- Showcase for acoustic guitar artistry
+- Emotional depth late in the set
+- Contrast with the fuller arrangements around it
 
 ### Set Context
 By this point the audience has heard:
@@ -95,6 +105,5 @@ Still to come after this:
 ---
 
 **Last Updated:** October 1, 2025
-**Status:** ⚠️ **AWAITING SONG SELECTION**
-**Priority:** 🔴 **URGENT - Deadline: Oct 2**
-**Action Required:** Team decision on song selection
+**Status:** ✅ **SONG SELECTED - Blackbird by The Beatles**
+**Priority:** HIGH - Arrangement needed by Oct 5
