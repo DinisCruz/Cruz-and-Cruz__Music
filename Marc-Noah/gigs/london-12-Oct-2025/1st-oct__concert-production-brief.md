@@ -74,20 +74,24 @@ the core team for the event and their responsibilities:
     assists with coordination among the performers, ensuring cues and
     transitions are smooth.
 
--   **Dinis Cruz -- Producer, MC & Technical Lead:** Dinis is the
-    production backbone and co-organizer of the project. For this
-    concert, he wears multiple hats: **Producer/Director**, ensuring the
-    show's flow, and **MC/Host**, opening the event and contextualizing
-    *Marc Noah's Music Lab* for the audience. Dinis handles strategic
-    planning and on-the-fly problem solving. Technically, he oversees
-    the recording setup and any live streaming, coordinating the media
-    team. Drawing on his tech background, Dinis set up the content
-    pipeline and will make sure all captured media is safely archived.
-    During performance, he might appear on stage briefly (as an MC or
-    even joining a song if planned), but primarily works behind the
-    scenes to manage logistics, timing, and the creative vision. He's
-    also the chief **project manager**, making sure everyone (including
-    volunteers) knows their tasks and the schedule.
+-   **Dinis Cruz -- Producer & Performing Musician:** Dinis serves dual
+    roles in this production. As **Producer**, he's the organizational
+    backbone and co-founder of the Music Lab project, responsible for
+    the overall event strategy, content pipeline, and ensuring all
+    media is properly captured and archived. However, for this concert,
+    Dinis will be fully committed as a **performing musician** on stage
+    throughout the show, playing cajon and guitar (on at least one
+    song). This marks a return to his musical roots -- Dinis was the
+    drummer in a band with Marc in the Algarve during the 1990s, and
+    the trio (Marc, Emily, and Dinis) have already performed together
+    in this configuration in Portugal. His stage presence means he
+    cannot handle any logistics during the performance itself, so all
+    production duties must be delegated to volunteers or handled before
+    and after the show. Pre-show, Dinis coordinates the media strategy
+    and volunteer briefings; post-show, he oversees content archival
+    and distribution.
+
+-   **Media Coordinator (Critical Volunteer Role) -- Technical Director During Show:** With Dinis performing on stage, we need a dedicated **Media Coordinator** to serve as the technical director during the performance. This person will handle all the coordination duties originally planned for Dinis during the show. Responsibilities include: overseeing the camera operators and ensuring they capture key moments, monitoring the audio recording, managing the livestream, coordinating with visual cues/hand signals during the performance, and handling any technical issues that arise. This person should be technically competent, calm under pressure, and familiar with the Music Lab's content goals. They will work closely with Dinis before the show to understand the vision and technical requirements. During the performance, they have full authority to make technical decisions. Post-show, they will lead the immediate data backup process. **This is our most critical volunteer position to fill.**
 
 -   **Media Team (Volunteers) -- Camera, Audio & Stream Operators:** A
     small volunteer media crew will support the technical execution. We
@@ -131,19 +135,14 @@ their primary focus.)*
 
 ## Timeline
 
-**Pre-Event Preparation (Now -- Oct 11):**
-- **Rehearsals & Setlist Finalization:** In the weeks leading up, Marc
-and Emily will conduct final rehearsals (both in-person and remotely as
-needed). By one week out, the **setlist and running order** will be
-confirmed, including any planned key changes or special arrangements for
-certain songs. The last rehearsal (targeting Oct 10 or 11) will double
-as a *tech run-through* -- testing the looper, harmonica mic, and any
-storytelling segments to ensure comfort and timing. We'll also rehearse
-any tricky transitions or new performance techniques (e.g. Marc
-performing a song without his guitar) so that on show day he feels
-prepared.
+**Current Status:** Today is Wednesday, October 1st, 2025 -- we are 11 days away from the show.
 
--   **Promotion & Audience Outreach:** Starting now and ramping up in
+**Pre-Event Preparation (Now -- Oct 11):**
+- **Remote Rehearsal Session (Oct 7-8):** Since Marc will be in Portugal until Friday Oct 10th, we'll conduct one remote rehearsal session via video call on Tuesday Oct 7th or Wednesday Oct 8th with all three core performers (Marc, Emily, and Dinis). This session will focus on finalizing the setlist, discussing arrangements, and coordinating musical transitions. Given that the trio has already performed together in the Algarve (Marc on vocals/guitar, Emily on keyboards/vocals, Dinis on cajon), we have established musical chemistry. The remote session will be recorded and select portions may be published as behind-the-scenes content, showing the collaborative preparation process. During this call, we'll confirm which song(s) will feature Dinis on guitar and plan the stage positioning for when all three are performing together.
+
+- **In-Person Rehearsals (Oct 11-12 morning):** Marc arrives in London on Friday, October 10th. We'll schedule rehearsals for Saturday Oct 11th and Sunday Oct 12th morning. These sessions will focus on running through the full set with all instruments, testing the looper and harmonica setups, and ensuring smooth transitions. The Saturday rehearsal will be comprehensive, while Sunday morning will be a focused run-through of any challenging sections. As experienced musicians who have already played together, we expect these rehearsals to be efficient and productive.
+
+-   **Promotion & Audience Outreach:** Starting immediately and ramping up in
     the final week, the team will promote the show both locally and
     online. This includes social media posts announcing the gig,
     personal invitations to Marc's regular fans, and a teaser about the
@@ -156,8 +155,10 @@ prepared.
     project logo and possibly a fresh visual theme to mark this "Music
     Lab Live" experiment.
 
--   **Technical Setup Planning:** Dinis and the media team will finalize
-    the recording plan in advance. This involves preparing all
+-   **Technical Setup Planning:** With Dinis performing on stage, the media team coordination
+    must be handled by designated volunteers. We need to identify and brief
+    a **Media Coordinator** who will take Dinis's originally planned technical
+    oversight role. This involves preparing all
     equipment: charging cameras, clearing memory cards, packing audio
     interfaces or recorders, and ensuring we have necessary cables and
     power adapters. We will visit or coordinate with The Roebuck's venue
@@ -196,43 +197,44 @@ letting them know about the live recording and encouraging them to be an
 energetic part of the experience. The livestream (if used) will start a
 "Starting Soon" screen around this time, so remote viewers know the feed
 is live.
-- **19:00 -- Show Introduction:** Dinis (as MC) takes the mic to welcome
-everyone. He will briefly introduce **Marc Noah's Music Lab** concept to
+- **19:00 -- Show Introduction:** A designated **volunteer MC** (to be identified and briefed in advance) takes the mic to welcome
+everyone. They will briefly introduce **Marc Noah's Music Lab** concept to
 set context -- emphasizing that this is a special experimental show
-being recorded for a wider audience. He'll thank The Roebuck and the
+being recorded for a wider audience. They'll thank The Roebuck and the
 volunteers, and encourage both live audience and remote viewers to
 engage (cheer, comment, be part of the footage). This intro ensures
-everyone understands the collaborative vibe of the event.
-- **19:10 -- Live Performance Begins:** Marc and Emily take the stage
-and the music kicks off. The performance block is expected to last
+everyone understands the collaborative vibe of the event. The MC should be someone comfortable with public speaking who understands the Music Lab ethos.
+- **19:10 -- Live Performance Begins:** Marc, Emily, and Dinis take the stage
+and the music kicks off. With Dinis now as part of the core performance trio
+(on cajon and guitar), the musical dynamics are enriched. The performance block is expected to last
 ~60--70 minutes, likely structured as two sets or one continuous set
 with a short midpoint break (for Marc to rest voice and for any
 technical adjustments). During the show, the team adheres to the
 *Performance Strategy* (detailed below) -- executing the setlist while
 also capturing various planned experiments on stage. Volunteers rotate
 subtly if needed to get varied shots (ensuring we film both wide crowd
-scenes and intimate close-ups). Dinis will remain vigilant off-stage,
+scenes and intimate close-ups). Since Dinis is performing, the **Media Coordinator** (a designated volunteer) will remain vigilant off-stage,
 coordinating any on-the-fly changes via hand signals or comms (for
-example, if a camera battery dies, he'll signal a backup to move in). If
+example, if a camera battery dies, they'll signal a backup to move in). If
 live streaming, we will also monitor viewer comments for any critical
 issues (e.g. "audio is low") and adjust if possible.
-- **~20:20 -- Post-Show Wrap-Up:** Marc ends the set (likely with a
+- **~20:20 -- Post-Show Wrap-Up:** The trio ends the set (likely with a
 high-energy closing number or an emotional highlight song). After final
-bows, Dinis and Marc will thank the audience on mic, reiterating
+bows, Marc (with Emily and Dinis beside him) will thank the audience on mic, reiterating
 appreciation for being part of this experiment. We may gather everyone
 for a quick group photo or video shout-out to send off the stream. Once
 the show concludes, the team will promptly stop recordings and begin
 **tear-down**.
 - **20:30 -- Breakdown & Data Backup:** Volunteers and crew pack up
 gear. Equally important: all recorded media (SD cards, camera files,
-audio recorder files) are collected immediately. Dinis will designate
+audio recorder files) are collected immediately. The **Media Coordinator** will designate
 one laptop as the **data ingestion station** on-site to begin copying
 files (so we have backups before leaving the venue). One copy of raw
 footage will be uploaded that same night to the cloud or a **Raw
 Archive** YouTube channel (set to private) as a failsafe
 backup[[6]](file://file_00000000f92c620a822cb4a2d761d57e#:~:text=1,Best%20content%20reaches%20Official%20channel)[[7]](file://file_00000000f92c620a822cb4a2d761d57e#:~:text=%E2%86%93%20,pdf%20page%204%20of%205).
 By the time we depart the venue, we aim to have all content safely
-saved. Any borrowed gear is checked and returned to owners.
+saved. Any borrowed gear is checked and returned to owners. Dinis will assist with this process once off-stage and equipment is packed.
 
 **Post-Event & Content Production (Oct 13 -- onwards):**
 - **Initial Content Review (Oct 13--15):** The day after the show, the
@@ -369,16 +371,16 @@ release system:
     authenticity) as part of the *Archive* or *Experiments* content
     later.
 
--   **On-Site Media Coordination:** During the event, Dinis will
+-   **On-Site Media Coordination:** During the event, the designated **Media Coordinator** (a volunteer briefed in advance) will
     coordinate cues with the media crew discreetly. For example,
     ensuring Camera 2 catches the moment Marc picks up the harmonica, or
     signaling the audio tech to start the backup recorder. We'll
     communicate with simple hand signals or pre-agreed visual cues to
     avoid disrupting the show. The crew has been instructed to be as
     unobtrusive as possible: wear black, move slowly, and respect the
-    audience's sightlines. Immediately post-show, one person (Media
-    Coordinator role) will ensure **all recordings are stopped properly
-    and files labeled**. That person (likely Dinis or a delegate) will
+    audience's sightlines. Immediately post-show, the Media
+    Coordinator will ensure **all recordings are stopped properly
+    and files labeled**. That person will
     then begin the file transfer process (to external drives and cloud).
     We'll use a checklist to not forget anything (e.g., "copy Camera 1
     SD card, verify files okay; collect Camera 2 phone footage, etc.").
@@ -467,9 +469,8 @@ on-stage presentation is as follows:
 
 -   **Transitions & Storytelling:** Rather than awkward silences or
     generic banter, we have planned purposeful transitions between
-    songs. Dinis (as MC) will join briefly at a couple of transition
-    points to converse with Marc -- almost like a live podcast feel --
-    giving Marc prompts to share short backstories (e.g., the
+    songs. Since Dinis is performing, we'll either have the **volunteer MC** join briefly at a couple of transition
+    points or Marc himself will handle the storytelling between songs -- sharing short backstories (e.g., the
     inspiration behind an original song, or an anecdote about how many
     times he's played a particular cover at pubs). These
     mini-storytelling moments serve two purposes: they allow Marc to
@@ -495,8 +496,8 @@ on-stage presentation is as follows:
     bit isn't working (say, the loop pedal misfires or Marc feels too
     nervous without guitar), the performers can smoothly revert to a
     simpler approach. The setlist is built with "pivot points" --
-    moments where, depending on the vibe, Marc and Emily might extend a
-    song or cut one out. Dinis will signal if time is running or if an
+    moments where, depending on the vibe, Marc, Emily, and Dinis might extend a
+    song or cut one out. The Media Coordinator will signal if time is running or if an
     encore is possible. The ethos is *flexibility*: we've prepared a
     script, but the team is ready to adapt on the fly, true to agile
     principles. Every unexpected turn can become part of the show (for
@@ -551,8 +552,8 @@ during, and after the event:
     we capture on video to use in a future intro or promotional clip.
 
 For remote viewers on the livestream, we plan to make them feel included
-too. Dinis (or the volunteer monitoring chat) will be logged into the
-stream and can relay any comments to Marc and Emily in real time if
+too. The **volunteer monitoring chat** will be logged into the
+stream and can relay any comments to the performers between songs if
 appropriate (for instance, if someone watching from abroad says
 "Greetings from Brazil!", we can shout that out). We might even take a
 quick pause between songs to address the online audience: e.g., *"I see
@@ -623,6 +624,10 @@ and you'll be part of a creative experiment that values everyone's
 input.
 
 Areas where we **need volunteer help** include:
+
+-   **MC/Host (Critical Role):** With Dinis performing on stage throughout the show, we urgently need a confident **volunteer MC** to open the show, welcome the audience, introduce the Music Lab concept, and potentially help with transitions between songs. This person should be comfortable with public speaking, understand the project's ethos, and be able to engage both the live and streaming audiences. They'll work with the team beforehand to understand key talking points. This is an essential role that needs to be filled ASAP.
+
+-   **Media Coordinator (Critical Role):** As mentioned above, we need someone to serve as technical director during the show, handling all the coordination that Dinis would normally do. This person needs to be organized, technically competent, and able to make quick decisions. They'll receive a full briefing from Dinis before the show.
 
 -   **Camera Operators:** If you have a steady hand and either a decent
     smartphone or camera, join our video team. We have a plan for
