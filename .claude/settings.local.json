@@ -1,7 +1,12 @@
 {
   "permissions": {
     "allow": [
-      "Bash(mkdir:*)"
+      "Bash(mkdir:*)",
+      "Bash(for dir in */)",
+      "Bash(do cd \"$dir\")",
+      "Bash(done)",
+      "Bash(for dir in 0*/)",
+      "Bash(do cp 01-road-trip-v1/score/README.md \"$dirscore/README.md\")"
     ],
     "deny": [],
     "ask": []
