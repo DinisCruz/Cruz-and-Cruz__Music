@@ -6,4 +6,4 @@
 ## Timings (minutes)
 
 - Fast Car song: 19 -> 25
-  
+- Dreams (Cranberries): 35 -> 38
