@@ -3,6 +3,7 @@
 - **when**: 15 Sep 2025
 - **video**: https://drive.google.com/file/d/1Nfw9nYw_BeJa4RrXFhxANPV2MtUxy17q/view
 
-## Notes
+## Timings (minutes)
 
-- Fast Car song starts on minute 19
+- Fast Car song: 19 -> 25
+  
