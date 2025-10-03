@@ -1,4 +1,4 @@
-# Posts
+# Social Media Posts
 
 
 ## Instagram
