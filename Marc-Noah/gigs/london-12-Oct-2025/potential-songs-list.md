@@ -3,6 +3,10 @@
 This document tracks potential song ideas for the concert, including suggestions for the TBD slots and future consideration.
 
 ---
+## to review
+
+- Go Jonny Go: https://www.youtube.com/watch?v=f9T4PMMrqFo&list=PLRiZRgbOD66b4qpoZv8Eo_eTAgQiZZbHu&index=13
+- valerie - amy winehouse
 
 ## For Current TBD Slots
 
