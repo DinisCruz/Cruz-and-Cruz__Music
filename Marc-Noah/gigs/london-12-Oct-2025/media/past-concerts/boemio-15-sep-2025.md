@@ -7,3 +7,4 @@
 
 - Fast Car song: 19 -> 25
 - Dreams (Cranberries): 35 -> 38
+- Easy (Faith no more): 38 -> 42
