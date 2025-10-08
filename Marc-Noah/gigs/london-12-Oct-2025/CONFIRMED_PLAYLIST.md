@@ -19,6 +19,8 @@
 
 ### Total: 12 songs
 
+**Important Change:** Folders `/songs/07-fast-car-v2/` and `/songs/09-road-trip-v2/` will NOT be used. The concert will feature single versions of Fast Car (V1) and Roadtrip (V1) only.
+
 ## Files Created/Updated
 
 ### New Song Folders
