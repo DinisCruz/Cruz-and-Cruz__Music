@@ -32,12 +32,12 @@
 
 ### Marc Noah Originals (4)
 - **Ocean Breeze** (Eb major) ✅
-- **Roadtrip** - 2 versions (Am) ✅
+- **Roadtrip** (Am) ✅ *(V2 cancelled)*
 - **Lie to Me** (D major) ✅
 - **Mother** (Em) ✅
 
 ### Covers (8)
-- **Fast Car** - 2 versions (Tracy Chapman, C/Capo 2) ✅
+- **Fast Car** (Tracy Chapman, C/Capo 2) ✅ *(V2 cancelled)*
 - **More Than Words** (Extreme, G major) ✅
 - **Blackbird** (The Beatles, G major) ✅
 - **Should I Stay or Should I Go** (The Clash, D major) ✅

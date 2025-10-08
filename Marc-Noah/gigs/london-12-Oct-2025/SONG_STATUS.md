@@ -7,6 +7,7 @@
 - ✅ Complete
 - 🟡 In Progress
 - 🔴 Not Started
+- ⛔ Not Using
 
 ## Confirmed Playlist - 12 Songs Total
 
@@ -15,8 +16,8 @@
 | # | Song | Chords | Lyrics | Notes |
 |---|------|--------|--------|-------|
 | - | [Ocean Breeze](./songs/ocean-breeze/) | ✅ | ✅ | Marc Noah original - Eb major |
-| 1 | [Road Trip V1](./songs/01-road-trip-v1/) | ✅ | 🟡 | Marc Noah original - Am, first version |
-| 9 | [Road Trip V2](./songs/09-road-trip-v2/) | 🟡 | 🟡 | Marc Noah original - Am, second version |
+| 1 | [Road Trip](./songs/01-road-trip-v1/) | ✅ | 🟡 | Marc Noah original - Am |
+| ⛔ | ~~Road Trip V2~~ | ⛔ | ⛔ | **NOT USING** - V2 cancelled |
 | - | [Lie to Me](./songs/lie-to-me/) | ✅ | 🔴 | Marc Noah original - D major |
 | - | [Mother](./songs/mother/) | ✅ | 🔴 | Marc Noah original - Em |
 
@@ -24,8 +25,8 @@
 
 | # | Song | Artist | Chords | Notes |
 |---|------|--------|--------|-------|
-| 2 | [Fast Car V1](./songs/02-fast-car-v1/) | Tracy Chapman | ✅ | C major, Capo 2 - first version |
-| 7 | [Fast Car V2](./songs/07-fast-car-v2/) | Tracy Chapman | 🔴 | Second version - arrangement TBD |
+| 2 | [Fast Car](./songs/02-fast-car-v1/) | Tracy Chapman | ✅ | C major, Capo 2 |
+| ⛔ | ~~Fast Car V2~~ | Tracy Chapman | ⛔ | **NOT USING** - V2 cancelled |
 | 5 | [More Than Words](./songs/05-more-than-words/) | Extreme | ✅ | G major - Dinis on guitar |
 | - | [Blackbird](./songs/blackbird/) | The Beatles | ✅ | G major - fingerstyle |
 | - | [Should I Stay or Should I Go](./songs/should-i-stay-or-should-i-go/) | The Clash | ✅ | D major - punk energy |
