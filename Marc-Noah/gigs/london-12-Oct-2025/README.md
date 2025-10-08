@@ -2,61 +2,86 @@
 
 **Date:** October 12, 2025
 **Venue:** The Roebuck, London
-**Status:** In Preparation - 11 days until show
+**Status:** In Preparation - 4 days until show
 
 ## Quick Links
+- [Confirmed Playlist](./CONFIRMED_PLAYLIST.md) - **NEW: All 12 songs confirmed**
 - [Song Status Tracker](./SONG_STATUS.md)
+- [Setlist (Version 1 - Original Planning)](./1st-oct__set-list__version_1.md)
 - [Potential Songs List](./potential-songs-list.md)
-- [How to Help](./project/HOW_TO_HELP.md)
 - [Design Brief](./1st-oct__design-brief.md)
 - [Production Brief](./1st-oct__concert-production-brief.md)
-- [Setlist](./1st-oct__set-list__version_1.md)
 - [External Resources](./EXTERNAL_LINKS.md)
+- [How to Help](./project/HOW_TO_HELP.md)
 
 ## Project Structure
 - `/songs/` - Individual song materials (lyrics, chords, arrangements, recordings)
 - `/media/` - Design assets and promotional materials
 - `/media-briefings/` - Press kit and information for journalists/industry
 - `/project/` - Project management documents (tasks, timeline, workflow)
-- `/resources/` - Marc Noah's official links and existing materials
 
 ## Critical Timeline
 
 **Urgent Deadlines:**
-- **Oct 5:** All arrangements finalized
-- **Oct 7-8:** Remote rehearsal with full team
-- **Oct 9:** Volunteer briefing call
-- **Oct 10:** Marc arrives in London
-- **Oct 11:** In-person rehearsal
+- **Oct 9:** Finalize running order
+- **Oct 10:** Marc arrives in London, complete all arrangements
+- **Oct 11:** In-person rehearsal at venue
 - **Oct 12:** Show day
+
+## Confirmed Playlist - 12 Songs
+
+### Marc Noah Originals (4)
+- **Ocean Breeze** (Eb major) ✅
+- **Roadtrip** - 2 versions (Am) ✅
+- **Lie to Me** (D major) ✅
+- **Mother** (Em) ✅
+
+### Covers (8)
+- **Fast Car** - 2 versions (Tracy Chapman, C/Capo 2) ✅
+- **More Than Words** (Extreme, G major) ✅
+- **Blackbird** (The Beatles, G major) ✅
+- **Should I Stay or Should I Go** (The Clash, D major) ✅
+- **Seven Nation Army** (The White Stripes, Em) ✅
+- **Down Under** (Men at Work, Am/Capo 2) ✅
+- **Back to Black** (Amy Winehouse, Dm) ✅
+- **Happy Birthday** (Traditional, A major) ✅
+
+## Current Status
+
+### ✅ Completed
+- All 12 songs confirmed
+- All chord progressions documented
+- Song folders created for all tracks
+
+### 🟡 In Progress
+- Running order to be finalized
+- Arrangement details (who plays what)
+- Transitions between songs
+- Emily's keyboard parts
+
+### 🔴 To Do
+- Reference recordings for new songs
+- Sheet music/chord charts for Emily
+- Technical setup documentation
+- Full rehearsal run-through
 
 ## Next Actions
 
-### Immediate Priorities (ASAP)
-- [ ] Song selection for [Cover #1](./songs/03-cover-1-TBD/) (Song #3)
-- [ ] Song selection for [Cover #2](./songs/08-cover-2-TBD/) (Song #8)
-- [ ] Song selection for [Medley #1](./songs/04-cover-medley-1/) (Song #4)
-- [ ] Song selection for [Medley #2](./songs/10-cover-medley-2/) (Song #10)
-- [ ] Finalize [Marc Original #1](./songs/06-marc-original-1-TBD/) (Song #6)
+### Immediate (By Oct 9)
+- [ ] Finalize running order for all 12 songs
+- [ ] Complete arrangement notes for each song
+- [ ] Plan transitions between songs
+- [ ] Document special features (loop pedal, harmonica, etc.)
 
-### By Oct 5
-- [ ] Complete all chord transcriptions
-- [ ] Finalize all arrangements
-- [ ] Document all transitions
+### By Oct 10
+- [ ] Reference recordings ready
+- [ ] Emily's sheet music/chord charts printed
+- [ ] Technical requirements documented
 
-## The Setlist
-
-1. [Road Trip V1](./songs/01-road-trip-v1/)
-2. [Fast Car V1](./songs/02-fast-car-v1/)
-3. [Cover #1](./songs/03-cover-1-TBD/) - **TBD**
-4. [Cover Medley #1](./songs/04-cover-medley-1/) - **TBD**
-5. [More Than Words](./songs/05-more-than-words/)
-6. [Marc Original #1](./songs/06-marc-original-1-TBD/) - **TBD**
-7. [Fast Car V2](./songs/07-fast-car-v2/)
-8. [Cover #2](./songs/08-cover-2-TBD/) - **TBD**
-9. [Road Trip V2](./songs/09-road-trip-v2/)
-10. [Cover Medley #2](./songs/10-cover-medley-2/) - **TBD**
-11. [Happy Birthday](./songs/11-happy-birthday/)
+### Oct 11
+- [ ] Final rehearsal at venue
+- [ ] Tech check
+- [ ] Run-through of full set
 
 ## Team
 - **Marc Noah** - Lead Musician, Vocals, Guitar
@@ -64,4 +89,9 @@
 - **Dinis Cruz** - Cajon/Guitar/Producer
 
 ## Concept
-This concert showcases an innovative approach to live music where two versions of the same songs are performed in one evening, demonstrating the evolution and experimentation of the arrangements. All materials are managed in this open-source repository to enable collaboration and document the creative process.
+This concert showcases an innovative approach to live music where two versions of selected songs (Roadtrip and Fast Car) are performed in one evening, demonstrating the evolution and experimentation of the arrangements. All materials are managed in this open-source repository to enable collaboration and document the creative process.
+
+---
+
+**Last Updated:** October 8, 2025
+**Days Until Show:** 4

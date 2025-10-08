@@ -1,24 +1,63 @@
 # Songs Directory
 
-This directory contains detailed materials for all 11 songs in the Marc Noah and the Cruzes setlist for the October 12, 2025 concert at The Roebuck, London.
+This directory contains detailed materials for all 12 songs in the Marc Noah and the Cruzes setlist for the October 12, 2025 concert at The Roebuck, London.
 
 ---
 
-## The Setlist
+## Confirmed Songs - 12 Total
 
-| # | Song | Type | Status | Notes |
-|---|------|------|--------|-------|
-| 1 | [Road Trip V1](./01-road-trip-v1/) | Marc Noah Original | 🟡 In Progress | Opening song - first version |
-| 2 | [Fast Car V1](./02-fast-car-v1/) | Tracy Chapman Cover | 🟡 In Progress | First version - traditional approach |
-| 3 | [Cover #1](./03-cover-1-TBD/) | Cover - TBD | ⚠️ **NEEDS SELECTION** | Energy builder, early in set |
-| 4 | [Cover Medley #1](./04-cover-medley-1/) | Medley - TBD | ⚠️ **NEEDS SELECTION** | 2-3 songs, ~5-6 minutes |
-| 5 | [More Than Words](./05-more-than-words/) | Extreme Cover | 🔴 Not Started | Midpoint of set, Dinis on guitar |
-| 6 | [Marc Original #1](./06-marc-original-1-TBD/) | Marc Noah Original - TBD | ⚠️ **NEEDS SELECTION** | Second original in the set |
-| 7 | [Fast Car V2](./07-fast-car-v2/) | Tracy Chapman Cover | 🟡 In Progress | Second version - experimental approach |
-| 8 | [Blackbird](./08-cover-2-TBD/) | The Beatles Cover | 🟡 In Progress | Acoustic guitar showcase, intimate moment |
-| 9 | [Road Trip V2](./09-road-trip-v2/) | Marc Noah Original | 🟡 In Progress | Second version - near finale |
-| 10 | [Cover Medley #2](./10-cover-medley-2/) | Medley - TBD | ⚠️ **NEEDS SELECTION** | Building energy to finale |
-| 11 | [Happy Birthday](./11-happy-birthday/) | Traditional | 🔴 Not Started | Finale - custom arrangement |
+### Marc Noah Originals (4 songs)
+
+| Song | Folder | Key | Chords | Lyrics | Notes |
+|------|--------|-----|--------|--------|-------|
+| Ocean Breeze | [/ocean-breeze/](./ocean-breeze/) | Eb | ✅ | ✅ | Original - uplifting feel |
+| Roadtrip V1 | [/01-road-trip-v1/](./01-road-trip-v1/) | Am | ✅ | 🟡 | Opening version |
+| Roadtrip V2 | [/09-road-trip-v2/](./09-road-trip-v2/) | Am | 🟡 | 🟡 | Experimental version |
+| Lie to Me | [/lie-to-me/](./lie-to-me/) | D | ✅ | 🔴 | Features Carron solo |
+| Mother | [/mother/](./mother/) | Em | ✅ | 🔴 | Introspective mood |
+
+### Cover Songs (8 songs)
+
+| Song | Artist | Folder | Key | Chords | Notes |
+|------|--------|--------|-----|--------|-------|
+| Fast Car V1 | Tracy Chapman | [/02-fast-car-v1/](./02-fast-car-v1/) | C (Capo 2) | ✅ | Traditional version |
+| Fast Car V2 | Tracy Chapman | [/07-fast-car-v2/](./07-fast-car-v2/) | TBD | 🔴 | Experimental version |
+| More Than Words | Extreme | [/05-more-than-words/](./05-more-than-words/) | G | ✅ | Dinis on guitar |
+| Blackbird | The Beatles | [/blackbird/](./blackbird/) | G | ✅ | Fingerstyle acoustic |
+| Should I Stay... | The Clash | [/should-i-stay-or-should-i-go/](./should-i-stay-or-should-i-go/) | D | ✅ | Punk energy |
+| Seven Nation Army | White Stripes | [/seven-nation-army/](./seven-nation-army/) | Em | ✅ | Rock anthem |
+| Down Under | Men at Work | [/down-under/](./down-under/) | Am (Capo 2) | ✅ | Singalong energy |
+| Back to Black | Amy Winehouse | [/back-to-black/](./back-to-black/) | Dm | ✅ | Soulful ballad |
+| Happy Birthday | Traditional | [/11-happy-birthday/](./11-happy-birthday/) | A | ✅ | Custom arrangement |
+
+---
+
+## Running Order - To Be Finalized
+
+The original plan had 11 numbered slots. With 12 songs confirmed, the running order needs to be determined:
+
+**Currently numbered slots:**
+1. Road Trip V1
+2. Fast Car V1
+3. Cover #1 - **TBD assignment**
+4. Cover Medley #1 - **TBD assignment**
+5. More Than Words
+6. Marc Original #1 - **TBD assignment**
+7. Fast Car V2
+8. Cover #2 - **TBD assignment**
+9. Road Trip V2
+10. Cover Medley #2 - **TBD assignment**
+11. Happy Birthday
+
+**Songs to be assigned:**
+- Ocean Breeze
+- Lie to Me
+- Mother
+- Blackbird
+- Should I Stay or Should I Go
+- Seven Nation Army
+- Down Under
+- Back to Black
 
 ---
 
@@ -27,8 +66,8 @@ This directory contains detailed materials for all 11 songs in the Marc Noah and
 Each song folder contains:
 
 - **README.md** - Overview, status checklist, quick info
-- **lyrics.md** - Song lyrics
-- **chords.md** - Chord progressions, tabs, and chart
+- **lyrics.md** - Song lyrics (where applicable)
+- **chords.md** - Chord progressions and charts
 - **arrangement.md** - Who plays what, instrumentation details
 - **transitions.md** - Entry and exit transitions
 - **notes.md** - Performance notes, rationale, story
@@ -42,23 +81,21 @@ Each song folder contains:
 - ✅ **Complete** - Ready to perform
 - 🟡 **In Progress** - Work underway
 - 🔴 **Not Started** - Needs work
-- ⚠️ **URGENT** - Selection needed by Oct 2
 
 ---
 
-## Quick Actions
+## Next Steps
 
-### URGENT - By Oct 2
-- [ ] Select Cover #1 (Song #3)
-- [x] Select Cover #2 (Song #8) - **Blackbird selected**
-- [ ] Select Marc Original #1 (Song #6)
-- [ ] Select songs for Cover Medley #1 (Song #4)
-- [ ] Select songs for Cover Medley #2 (Song #10)
+### Immediate (By Oct 9)
+- [ ] Finalize running order for all 12 songs
+- [ ] Assign songs to numbered slots or create new structure
+- [ ] Complete arrangement notes for each song
+- [ ] Plan transitions
 
-### By Oct 5
-- [ ] Complete all chord transcriptions
-- [ ] Finalize all arrangements
-- [ ] Document all transitions
+### By Oct 10
+- [ ] Complete all lyrics documentation
+- [ ] Complete all arrangement details
+- [ ] Create Emily's chord charts
 
 ---
 
@@ -69,23 +106,23 @@ This concert features two versions of selected songs to demonstrate musical evol
 **Road Trip (Songs #1 & #9)**
 - Marc Noah's original composition
 - Opens and nearly closes the concert
-- Two distinct arrangements
+- Two distinct arrangements showcase evolution
 
 **Fast Car (Songs #2 & #7)**
 - Tracy Chapman cover
 - Traditional vs. experimental approaches
-- Demonstrates reinterpretation
+- Demonstrates reinterpretation possibilities
 
 ---
 
 ## Resources
 
+- [Confirmed Playlist](../CONFIRMED_PLAYLIST.md) - Complete list of all 12 songs
 - [Song Status Tracker](../SONG_STATUS.md) - Detailed progress tracking
-- [Potential Songs List](../potential-songs-list.md) - Ideas for TBD slots
-- [Setlist Document](../1st-oct__set-list__version_1.md) - Full setlist with timing
+- [Setlist Document](../1st-oct__set-list__version_1.md) - Original planning document
 
 ---
 
-**Last Updated:** October 1, 2025
-**Concert Date:** October 12, 2025 (11 days away)
-**Priority:** Complete all TBD selections by Oct 2, arrangements by Oct 5
+**Last Updated:** October 8, 2025
+**Concert Date:** October 12, 2025 (4 days away)
+**Priority:** Finalize running order and complete arrangements by Oct 9
