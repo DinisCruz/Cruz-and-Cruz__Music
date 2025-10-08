@@ -1,26 +1,27 @@
 # Chords - Fast Car V1
 
 ## Song Information
-- **Key:** [To be added]
-- **Capo:** [To be added if applicable]
+- **Key:** C (with Capo 2)
+- **Capo:** 2nd fret
 - **Tempo:** [To be added]
+- **Original Artist:** Tracy Chapman
 
 ## Chord Chart
 
-### Intro
-[Chord progression to be added]
+### Main Progression (Riff 1)
+C, G, Em, D
 
-### Verse
-[Chord progression to be added]
+### Chorus/Bridge (Refrão)
+C, G, Em, D
+CC9, D (transitions)
 
-### Chorus
-[Chord progression to be added]
+### Verse Pattern
+C, G, Em, D (repeating pattern)
 
-### Bridge
-[Chord progression to be added if applicable]
-
-### Outro
-[Chord progression to be added]
+## Notes
+- Reference chart provided in: `/workspaces/Cruz-and-Cruz__Music/_temp_images/fastcar.jpeg`
+- Full lyrics available in reference chart
+- Song structure alternates between verses and chorus sections
 
 ## Full Chart with Lyrics
 

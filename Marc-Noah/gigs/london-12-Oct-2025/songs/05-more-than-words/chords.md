@@ -1,26 +1,33 @@
 # Chords - More Than Words
 
 ## Song Information
-- **Key:** [To be added]
-- **Capo:** [To be added if applicable]
+- **Key:** G major
+- **Capo:** None
 - **Tempo:** [To be added]
+- **Original Artist:** Extreme
 
 ## Chord Chart
 
 ### Intro
-[Chord progression to be added]
+G, Cadd9, Am7, C, D, G
 
 ### Verse
-[Chord progression to be added]
+G, Cadd9, Am7, C, D, G (or Em)
+Em, Am7, D, G, D/F#, Em
+Am7, D7, G7, C, Cm, G, Em7, Am7, D7, G
 
 ### Chorus
-[Chord progression to be added]
+G, D/F#, Em, Bm, C, G/B, Am7, D7, G
+G, D/F#, Em7, Bm, C, G/B, Am7, D7, G
 
-### Bridge
-[Chord progression to be added if applicable]
+### Interlude
+G, Cadd9, Am7, C, D, G
+G, Cadd9, Am7, D
 
-### Outro
-[Chord progression to be added]
+## Notes
+- Features fingerstyle guitar work
+- Dinis will play guitar on this song
+- Chord progressions provided by user
 
 ## Full Chart with Lyrics
 

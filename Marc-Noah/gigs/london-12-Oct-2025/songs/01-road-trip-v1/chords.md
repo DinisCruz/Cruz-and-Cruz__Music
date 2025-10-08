@@ -1,26 +1,27 @@
 # Chords - Road Trip V1
 
 ## Song Information
-- **Key:** [To be added]
-- **Capo:** [To be added if applicable]
+- **Key:** Am
+- **Capo:** None
 - **Tempo:** [To be added]
 
 ## Chord Chart
 
-### Intro
-[Chord progression to be added]
-
 ### Verse
-[Chord progression to be added]
-
-### Chorus
-[Chord progression to be added]
+Am, C, G, Dm
+Am, C, G, F
 
 ### Bridge
-[Chord progression to be added if applicable]
+Dm, Am, Em, F
+Dm, Am, Em
+
+### Chorus
+Am, G, F, Dm
+Am, G, F, Em
 
 ### Outro
-[Chord progression to be added]
+Em, Dm, Am, Em
+Em, F, Dm, G
 
 ## Full Chart with Lyrics
 

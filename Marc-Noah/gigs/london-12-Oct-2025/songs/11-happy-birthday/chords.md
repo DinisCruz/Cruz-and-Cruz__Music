@@ -1,26 +1,23 @@
 # Chords - Happy Birthday
 
 ## Song Information
-- **Key:** [To be added]
-- **Capo:** [To be added if applicable]
+- **Key:** A major
+- **Capo:** None
 - **Tempo:** [To be added]
 
 ## Chord Chart
 
-### Intro
-[Chord progression to be added]
+### Main Progression
+A, E
+E, A
+A7, D
+A, E, A
 
-### Verse
-[Chord progression to be added]
-
-### Chorus
-[Chord progression to be added]
-
-### Bridge
-[Chord progression to be added if applicable]
-
-### Outro
-[Chord progression to be added]
+## Notes
+- Traditional melody, public domain
+- Can be arranged in various styles (jazz, reggae, punk, etc.)
+- Chord progressions provided by user
+- Memorable closer for the set
 
 ## Full Chart with Lyrics
 
