@@ -11,8 +11,8 @@ This directory contains detailed materials for all 12 songs in the Marc Noah and
 | Song | Folder | Key | Chords | Lyrics | Notes |
 |------|--------|-----|--------|--------|-------|
 | Ocean Breeze | [/ocean-breeze/](./ocean-breeze/) | Eb | ✅ | ✅ | Original - uplifting feel |
-| Roadtrip V1 | [/01-road-trip-v1/](./01-road-trip-v1/) | Am | ✅ | 🟡 | Opening version |
-| Roadtrip V2 | [/09-road-trip-v2/](./09-road-trip-v2/) | Am | 🟡 | 🟡 | Experimental version |
+| Roadtrip | [/01-road-trip-v1/](./01-road-trip-v1/) | Am | ✅ | 🟡 | Marc Noah original |
+| ~~Roadtrip V2~~ | ~~09-road-trip-v2~~ | ⛔ | ⛔ | ⛔ | **NOT USING** |
 | Lie to Me | [/lie-to-me/](./lie-to-me/) | D | ✅ | 🔴 | Features Carron solo |
 | Mother | [/mother/](./mother/) | Em | ✅ | 🔴 | Introspective mood |
 
@@ -20,8 +20,8 @@ This directory contains detailed materials for all 12 songs in the Marc Noah and
 
 | Song | Artist | Folder | Key | Chords | Notes |
 |------|--------|--------|-----|--------|-------|
-| Fast Car V1 | Tracy Chapman | [/02-fast-car-v1/](./02-fast-car-v1/) | C (Capo 2) | ✅ | Traditional version |
-| Fast Car V2 | Tracy Chapman | [/07-fast-car-v2/](./07-fast-car-v2/) | TBD | 🔴 | Experimental version |
+| Fast Car | Tracy Chapman | [/02-fast-car-v1/](./02-fast-car-v1/) | C (Capo 2) | ✅ | Tracy Chapman cover |
+| ~~Fast Car V2~~ | Tracy Chapman | ~~07-fast-car-v2~~ | ⛔ | ⛔ | **NOT USING** |
 | More Than Words | Extreme | [/05-more-than-words/](./05-more-than-words/) | G | ✅ | Dinis on guitar |
 | Blackbird | The Beatles | [/blackbird/](./blackbird/) | G | ✅ | Fingerstyle acoustic |
 | Should I Stay... | The Clash | [/should-i-stay-or-should-i-go/](./should-i-stay-or-should-i-go/) | D | ✅ | Punk energy |
@@ -99,19 +99,12 @@ Each song folder contains:
 
 ---
 
-## Two-Version Concept
+## Two-Version Concept *(CANCELLED)*
 
-This concert features two versions of selected songs to demonstrate musical evolution:
+~~This concert was originally planned to feature two versions of selected songs to demonstrate musical evolution.~~
 
-**Road Trip (Songs #1 & #9)**
-- Marc Noah's original composition
-- Opens and nearly closes the concert
-- Two distinct arrangements showcase evolution
-
-**Fast Car (Songs #2 & #7)**
-- Tracy Chapman cover
-- Traditional vs. experimental approaches
-- Demonstrates reinterpretation possibilities
+**Change:** The two-version concept has been cancelled. The concert will now feature single versions of Roadtrip and Fast Car only.
+- Slots 07-fast-car-v2 and 09-road-trip-v2 will not be used
 
 ---
 
