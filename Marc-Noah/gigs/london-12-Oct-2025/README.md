@@ -89,7 +89,9 @@
 - **Dinis Cruz** - Cajon/Guitar/Producer
 
 ## Concept
-This concert showcases an innovative approach to live music where two versions of selected songs (Roadtrip and Fast Car) are performed in one evening, demonstrating the evolution and experimentation of the arrangements. All materials are managed in this open-source repository to enable collaboration and document the creative process.
+This concert showcases Marc Noah's original songs and carefully selected covers at The Roebuck, London. Originally planned to feature two versions of Roadtrip and Fast Car to demonstrate arrangement evolution, the setlist has been simplified to single versions. All materials are managed in this open-source repository to enable collaboration and document the creative process.
+
+**Note:** Folders 07-fast-car-v2 and 09-road-trip-v2 will not be used for this performance.
 
 ---
 
